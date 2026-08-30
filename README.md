@@ -7,7 +7,6 @@ Submitted By:
 [ Sawaira  Mumtaz ] 
 Internship Domain: Android App Development 
 Email Address: [sawairamumtaz369@gmail.com] 
-Phone Number: [03155069089] 
 Submission Date: August 29, 2026 
 Submitted To: Arch Technologies **
 
