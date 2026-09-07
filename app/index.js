@@ -1,1 +1,2 @@
-"import App from '../App'; export default App;" | Out-File -FilePath app\index.js -Encoding utf8
+import App from '../App';
+export default App;
