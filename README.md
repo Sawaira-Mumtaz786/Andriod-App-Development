@@ -1,5 +1,6 @@
-<<<<<<< HEAD
+
 # Welcome to your Expo app 👋
+Here is the Live Demo https://andriod-app-development.onrender.com
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
