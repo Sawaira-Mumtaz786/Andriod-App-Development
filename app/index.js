@@ -1,0 +1,1 @@
+"import App from '../App'; export default App;" | Out-File -FilePath app\index.js -Encoding utf8
